@@ -8,4 +8,4 @@
   4. Using the PCA method to do the dimensional reduction and compare the result with original output
 
 **NB**
-This project just utilize 700 samples as the limited computing resource
+This project just utilize 1000 samples as the limited computing resource
