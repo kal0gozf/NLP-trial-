@@ -1,4 +1,4 @@
-# NLP-trial-
+# NLP trial
 [**Data set**](https://www.kaggle.com/datasets/razanaqvi14/real-and-fake-news/data)
 
 **Procedure:**
