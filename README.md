@@ -1,5 +1,5 @@
 # NLP trial
-[**Data set**](https://www.kaggle.com/datasets/razanaqvi14/real-and-fake-news/data)
+[**Dataset**](https://www.kaggle.com/datasets/razanaqvi14/real-and-fake-news/data)
 
 **Procedure:**
   1. Using BERT model transform the dataset to numerical form
